@@ -123,6 +123,9 @@ Most of my work is client code, so the repositories are private — but the prod
 ### 🦃 Godshall's Poultry — online holiday ordering & operations system
 **[godshallspoultry.com](https://godshallspoultry.com)**
 
+<img src="assets/screens/godshall.png" alt="Godshall's Poultry website" width="720" />
+
+
 A public site plus a full holiday pre-order platform for a Reading Terminal Market poultry vendor.
 - Customers reserve holiday orders online with live pickup-slot availability and per-holiday ordering cutoffs
 - Staff admin panel for orders, pickups, prep lists, and stock levels — with order creation and editing
@@ -144,12 +147,18 @@ Personal project, actively in development
 ### 🚚 Already Won Logistics — freight brokerage website
 **[alreadywonlogistics.com](https://alreadywonlogistics.com)**
 
+<img src="assets/screens/already-won.png" alt="Already Won Logistics website" width="720" />
+
+
 Marketing site for a freight brokerage, with service, carrier, and contact pages and smooth Framer Motion animation.
 
 `Next.js` `TypeScript` `Tailwind CSS` `Framer Motion`
 
 ### 🔨 Detweiler Contracting LLC — carpentry business website
 **[detweiler-contracting-llc.vercel.app](https://detweiler-contracting-llc.vercel.app)** · Quakertown, PA
+
+<img src="assets/screens/detweiler.png" alt="Detweiler Contracting website" width="720" />
+
 
 Website for a local carpentry business, with services, project gallery, and contact pages.
 
