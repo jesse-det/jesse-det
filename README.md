@@ -2,16 +2,27 @@
 
 **Full-stack engineer.** I build and ship production web apps for real businesses — from the database schema and auth to the email that lands in a customer's inbox.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
-![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat&logo=drizzle&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+## 🧰 Tech stack
+
+<table>
+  <tr><td><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=ts,js,python,java,cs,go,php,cpp,kotlin,bash&perline=12" /></td></tr>
+  <tr><td><b>Frontend</b></td><td><img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,svelte,angular,html,css,sass,tailwind,redux,vite&perline=12" /></td></tr>
+  <tr><td><b>Backend</b></td><td><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,bun,django,flask,fastapi,dotnet,spring,graphql&perline=12" /></td></tr>
+  <tr><td><b>Data</b></td><td><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,supabase,firebase,prisma&perline=12" /></td></tr>
+  <tr><td><b>Cloud &amp; DevOps</b></td><td><img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,vercel,netlify,cloudflare,githubactions,nginx,linux&perline=12" /></td></tr>
+  <tr><td><b>Tools</b></td><td><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,jest,vitest,npm,pnpm,webpack&perline=12" /></td></tr>
+</table>
+
+<p>
+  <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" />
+  <img src="https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=resend&logoColor=white" />
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+</p>
 
 ---
 
@@ -30,8 +41,8 @@ A public site plus a full holiday pre-order platform for a Reading Terminal Mark
 
 `Next.js` `TypeScript` `PostgreSQL` `Drizzle ORM` `Resend` `shadcn/ui` `Zod` `Vercel`
 
-### 📈 Financial Guidance — AI-powered adaptive financial literacy platform
-**[financial-guidance-app.vercel.app](https://financial-guidance-app.vercel.app)** · personal project
+### 📈 Financial Guidance — AI-powered adaptive financial literacy platform `🚧 In progress`
+Personal project, actively in development
 
 - Diagnostic assessment → adaptive routing → personalized scenario-based learning modules
 - Embedded AI tutor (Claude API) with streamed responses and Socratic, non-advice guardrails
