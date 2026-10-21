@@ -31,7 +31,7 @@ A public site plus a full holiday pre-order platform for a Reading Terminal Mark
 `Next.js` `TypeScript` `PostgreSQL` `Drizzle ORM` `Resend` `shadcn/ui` `Zod` `Vercel`
 
 ### 📈 Financial Guidance — AI-powered adaptive financial literacy platform
-**[financial-guidance-app.vercel.app](https://financial-guidance-app.vercel.app)** · built for a university business capstone
+**[financial-guidance-app.vercel.app](https://financial-guidance-app.vercel.app)** · personal project
 
 - Diagnostic assessment → adaptive routing → personalized scenario-based learning modules
 - Embedded AI tutor (Claude API) with streamed responses and Socratic, non-advice guardrails
