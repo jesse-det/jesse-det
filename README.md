@@ -65,5 +65,5 @@ Website for a local carpentry business, with services, project gallery, and cont
 ---
 
 ## 🔭 Currently
-- Building new open-source projects — check back soon
+- Building a pre-order and pickup-scheduling platform for small shops
 - Open to full-stack engineering opportunities
