@@ -1,8 +1,8 @@
-# Hi, I'm Jesse Detweiler 👋
+# Jesse Detweiler
 
-**Full-stack engineer.** I build and ship production web apps for real businesses — from the database schema and auth to the email that lands in a customer's inbox.
+Full-stack engineer. I build and ship production web apps for small businesses, from the database and auth through to the emails customers receive.
 
-## 🧰 Tech stack
+## Stack
 
 <table>
   <tr><td><b>Languages</b></td><td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" /></td></tr>
@@ -14,11 +14,11 @@
 
 ---
 
-## 🛠️ Selected work
+## Selected work
 
-Most of my work is client code, so the repositories are private — but the products are live. Happy to walk through any of the code on a call.
+Most of my work is client code, so the repositories are private. The products are live, and I'm happy to walk through the code on a call.
 
-### 🦃 Godshall's Poultry — online holiday ordering & operations system
+### Godshall's Poultry: holiday ordering and operations
 **[godshallspoultry.com](https://godshallspoultry.com)**
 
 <img src="assets/screens/godshall.png" alt="Godshall's Poultry website" width="720" />
@@ -26,13 +26,13 @@ Most of my work is client code, so the repositories are private — but the prod
 
 A public site plus a full holiday pre-order platform for a Reading Terminal Market poultry vendor.
 - Customers reserve holiday orders online with live pickup-slot availability and per-holiday ordering cutoffs
-- Staff admin panel for orders, pickups, prep lists, and stock levels — with order creation and editing
+- Staff admin panel for orders, pickups, prep lists, and stock levels, with order creation and editing
 - Transactional confirmation emails (React Email + Resend) and Excel export for the shop floor
 - Scheduled daily jobs via Vercel Cron
 
 `Next.js` `TypeScript` `PostgreSQL` `Drizzle ORM` `Resend` `shadcn/ui` `Zod` `Vercel`
 
-### 📈 Financial Guidance — AI-powered adaptive financial literacy platform `🚧 In progress`
+### Financial Guidance: adaptive financial literacy platform (in progress)
 Personal project, actively in development
 
 - Diagnostic assessment → adaptive routing → personalized scenario-based learning modules
@@ -42,7 +42,7 @@ Personal project, actively in development
 
 `Next.js` `TypeScript` `Supabase` `PostgreSQL` `Claude API` `Vitest` `Playwright` `GitHub Actions` `Sentry`
 
-### 🚚 Already Won Logistics — freight brokerage website
+### Already Won Logistics: freight brokerage website
 **[alreadywonlogistics.com](https://alreadywonlogistics.com)**
 
 <img src="assets/screens/already-won.png" alt="Already Won Logistics website" width="720" />
@@ -52,7 +52,7 @@ Marketing site for a freight brokerage, with service, carrier, and contact pages
 
 `Next.js` `TypeScript` `Tailwind CSS` `Framer Motion`
 
-### 🔨 Detweiler Contracting LLC — carpentry business website
+### Detweiler Contracting: carpentry business website
 **[detweiler-contracting-llc.vercel.app](https://detweiler-contracting-llc.vercel.app)** · Quakertown, PA
 
 <img src="assets/screens/detweiler.png" alt="Detweiler Contracting website" width="720" />
@@ -64,6 +64,6 @@ Website for a local carpentry business, with services, project gallery, and cont
 
 ---
 
-## 🔭 Currently
+## Currently
 - Building a pre-order and pickup-scheduling platform for small shops
 - Open to full-stack engineering opportunities
