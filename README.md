@@ -1,6 +1,6 @@
 # Jesse Detweiler
 
-Full-stack engineer. I build and ship production web apps for small businesses, from the database and auth through to the emails customers receive.
+I'm a full-stack engineer. I build the web apps small businesses run on: ordering systems, admin dashboards, and the sites their customers use.
 
 ## Stack
 
